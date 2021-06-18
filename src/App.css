@@ -5,3 +5,9 @@
   font-weight: bolder;
   font-size: 18px;
 }
+
+.search {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}

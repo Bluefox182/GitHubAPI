@@ -54,7 +54,8 @@ function App() {
   };
 
   return (
-    <div className="navbar">
+    <div>
+      <div className="navbar">GitHub API Search</div>
       <div className="search">
         <Form onSubmit={handleSubmit}>
           <Form.Group>

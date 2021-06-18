@@ -18,7 +18,7 @@ function App() {
       .then((data) => {
         setData(data);
       });
-  });
+  }, []);
 
   return (
     <div className="navbar">

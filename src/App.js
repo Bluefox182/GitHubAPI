@@ -20,6 +20,22 @@ function App() {
       });
   }, []);
 
+  const setData = ({
+    name,
+    login,
+    followers,
+    following,
+    public_repos,
+    avatar_url,
+  }) => {
+    setName(name);
+    setUsername(login);
+    setFollowers(followers);
+    setFollowing(following);
+    setRepos(public_repos);
+    setAvatar(avatar_url);
+  };
+
   return (
     <div className="navbar">
       <div className="search">

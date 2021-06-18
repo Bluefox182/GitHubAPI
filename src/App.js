@@ -36,6 +36,23 @@ function App() {
     setAvatar(avatar_url);
   };
 
+  const handleSearch = (e) => {
+    setUserInput(e.target.value);
+  };
+
+  const handleSubmit = () => {
+    fetch(`https>//api.github.com/users/${userInput}`)
+      .then((res) => res.json())
+      .then((data) => {
+        if (data.message) {
+          setError(data.message);
+        } else {
+          setData(data);
+          setError(null);
+        }
+      });
+  };
+
   return (
     <div className="navbar">
       <div className="search">

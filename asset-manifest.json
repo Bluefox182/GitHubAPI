@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GitHubAPI/static/css/main.fa88d842.chunk.css",
+    "main.js": "/GitHubAPI/static/js/main.97ff462c.chunk.js",
+    "main.js.map": "/GitHubAPI/static/js/main.97ff462c.chunk.js.map",
+    "runtime-main.js": "/GitHubAPI/static/js/runtime-main.5ecbf120.js",
+    "runtime-main.js.map": "/GitHubAPI/static/js/runtime-main.5ecbf120.js.map",
+    "static/css/2.d5522a21.chunk.css": "/GitHubAPI/static/css/2.d5522a21.chunk.css",
+    "static/js/2.f795dbbd.chunk.js": "/GitHubAPI/static/js/2.f795dbbd.chunk.js",
+    "static/js/2.f795dbbd.chunk.js.map": "/GitHubAPI/static/js/2.f795dbbd.chunk.js.map",
+    "static/js/3.6cfff8be.chunk.js": "/GitHubAPI/static/js/3.6cfff8be.chunk.js",
+    "static/js/3.6cfff8be.chunk.js.map": "/GitHubAPI/static/js/3.6cfff8be.chunk.js.map",
+    "index.html": "/GitHubAPI/index.html",
+    "static/css/2.d5522a21.chunk.css.map": "/GitHubAPI/static/css/2.d5522a21.chunk.css.map",
+    "static/css/main.fa88d842.chunk.css.map": "/GitHubAPI/static/css/main.fa88d842.chunk.css.map",
+    "static/js/2.f795dbbd.chunk.js.LICENSE.txt": "/GitHubAPI/static/js/2.f795dbbd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/GitHubAPI/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ecbf120.js",
+    "static/css/2.d5522a21.chunk.css",
+    "static/js/2.f795dbbd.chunk.js",
+    "static/css/main.fa88d842.chunk.css",
+    "static/js/main.97ff462c.chunk.js"
+  ]
+}
